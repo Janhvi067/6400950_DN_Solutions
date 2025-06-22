@@ -15,23 +15,23 @@ This repository follows a weekly structure. Each `Week_N` folder contains hands-
 ```
 
 ├── README.md
-└── Week\_1/
-├── Algorithms\_Data\_Structures/
-│   ├── E-commerce\_Platform\_Search/
-│   │   ├── code/
-│   │   ├── output/
-│   │   └── Asymptotic\_Notation.md
-│   └── Financial\_Forecasting/
-│       ├── code/
-│       ├── output/
+└── Week_1
+├── Algorithms_Data_Structures
+│   ├── E-commerce_Platform_Search
+│   │   ├── code
+│   │   ├── output
+│   │   └── Asymptotic_Notation.md
+│   └── Financial_Forecasting
+│       ├── code
+│       ├── output
 │       └── Recursion.md
-└── Design\_Patterns\_and\_Principles/
-├── FactoryMethodExample/
-│   ├── code/
-│   └── output/
-└── SingletonPatternExample/
-├── code/
-└── output/
+└── Design_Patterns_and_Principles
+├── FactoryMethodExample
+│   ├── code
+│   └── output
+└── SingletonPatternExample
+├── code
+└── output
 
 ```
 
